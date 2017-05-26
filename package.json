@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/bloggify-sql-adapter#readme",
   "dependencies": {
-    "bloggify-adapter": "1.0.0",
-    "ul": "^5.2.2"
+    "bloggify-adapter": "^1.0.0",
+    "ul": "^5.2.11"
   }
 }
