@@ -1,34 +1,15 @@
 
-# bloggify-markdown-adapter
+# bloggify-sql-adapter
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/bloggify-markdown-adapter.svg)](https://www.npmjs.com/package/bloggify-markdown-adapter) [![Downloads](https://img.shields.io/npm/dt/bloggify-markdown-adapter.svg)](https://www.npmjs.com/package/bloggify-markdown-adapter)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/bloggify-sql-adapter.svg)](https://www.npmjs.com/package/bloggify-sql-adapter) [![Downloads](https://img.shields.io/npm/dt/bloggify-sql-adapter.svg)](https://www.npmjs.com/package/bloggify-sql-adapter)
 
-> Markdown adapter for Bloggify.
+> sql adapter for Bloggify.
 
 ## :cloud: Installation
 
 ```sh
-$ npm i --save bloggify-markdown-adapter
+$ npm i --save bloggify-sql-adapter
 ```
-
-
-## :clipboard: Example
-
-
-
-```js
-const bloggifyMarkdownAdapter = require("bloggify-markdown-adapter");
-
-console.log(bloggifyMarkdownAdapter());
-```
-
-## :question: Get Help
-
-There are few ways to get help:
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 ## :yum: How to contribute
@@ -66,7 +47,7 @@ Thanks! :heart:
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
-[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2016#license-mit
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2017#license-mit
 [website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md
