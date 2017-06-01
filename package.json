@@ -1,9 +1,9 @@
 {
-  "name": "bloggify-sql-adapter",
-  "description": "sql adapter for Bloggify.",
+  "name": "bloggify-sequelize-adapter",
+  "description": "sequelize adapter for Bloggify.",
   "keywords": [
     "bloggify",
-    "sql",
+    "sequelize",
     "adapter",
     "for"
   ],
@@ -13,29 +13,32 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-sql-adapter.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-sequelize-adapter.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-sql-adapter/issues"
+    "url": "https://github.com/Bloggify/bloggify-sequelize-adapter/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-sql-adapter#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-sequelize-adapter#readme",
   "dependencies": {
     "bloggify-adapter": "^1.0.0",
     "ul": "^5.2.11"
+  },
+  "blah": {
+    "description": "This assumes you have the `Page` and `Article` exposed in the Bloggify models."
   }
 }
