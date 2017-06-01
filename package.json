@@ -1,6 +1,6 @@
 {
   "name": "bloggify-sequelize-adapter",
-  "description": "sequelize adapter for Bloggify.",
+  "description": "Sequelize adapter for Bloggify.",
   "keywords": [
     "bloggify",
     "sequelize",
